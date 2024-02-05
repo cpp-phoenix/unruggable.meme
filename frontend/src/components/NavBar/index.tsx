@@ -17,6 +17,10 @@ export const links = [
     name: 'Launch',
     path: '/launch',
   },
+  {
+    name: 'About',
+    path: '/about',
+  },
 ]
 
 export default function NavBar() {
